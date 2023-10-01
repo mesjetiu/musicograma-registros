@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Musicograma Interactivo</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <div class="container">
+        <div id="musicograma">
+            <!-- Aquí se cargarán las imágenes de los registros dinámicamente -->
+        </div>
+    
+        <div id="controls">
+            <button id="playStopBtn">▶️</button>
+            <div id="contador">
+                <p>Aciertos: <span id="aciertos">0</span></p>
+                <p>Errores: <span id="errores">0</span></p>
+            </div>
+        </div>
+    </div>
+
+    <audio id="player" autoplay="false"></audio>
+    
+    <div id="resultado"></div>
+
+    <script src="js/script.js"></script>
+</body>
+</html>

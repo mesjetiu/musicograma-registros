@@ -1,0 +1,11 @@
+[
+    {
+        "audio": "audios/stop1.mp3",
+        "imagen": "imagenes/stop1.png"
+    },
+    {
+        "audio": "audios/stop2.mp3",
+        "imagen": "imagenes/stop2.png"
+    }
+    /* ... */
+]
