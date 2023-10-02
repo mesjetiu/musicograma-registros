@@ -1,50 +1,50 @@
 let data = [
     {
-        "audio": ["audios/sesión_Principal 8.ogg", "audios/sesión_Principal 8 2.ogg", "audios/sesión_Principal 8 3 1.ogg", "audios/sesión_Principal 8 3 2 (2).ogg"],
+        "audio": ["audios/sesión_Principal 8.mp3", "audios/sesión_Principal 8 2.mp3", "audios/sesión_Principal 8 3 1.mp3", "audios/sesión_Principal 8 3 2 (2).mp3"],
         "imagen": "imagenes/1.png"
     },
     {
-        "audio": ["audios/sesión_Principal 16.ogg", "audios/sesión_Principal 16 1.ogg"],
+        "audio": ["audios/sesión_Principal 16.mp3", "audios/sesión_Principal 16 1.mp3"],
         "imagen": "imagenes/2.png"
     },
     {
-        "audio": ["audios/sesión_Principal 4 2.ogg", "audios/sesión_Principal 4 2.ogg"],
+        "audio": ["audios/sesión_Principal 4 2.mp3", "audios/sesión_Principal 4 2.mp3"],
         "imagen": "imagenes/3.png"
     },
     {
-        "audio": ["audios/sesión_principal 8 4.ogg"],
+        "audio": ["audios/sesión_principal 8 4.mp3"],
         "imagen": "imagenes/4.png"
     },
     {
-        "audio": ["audios/sesión_Tapado 8.ogg", "audios/sesión_Tapado 8 1.ogg", "audios/sesión_Tapado 8 2.ogg", "audios/sesión_Tapado 8 2 1.ogg"],
+        "audio": ["audios/sesión_Tapado 8.mp3", "audios/sesión_Tapado 8 1.mp3", "audios/sesión_Tapado 8 2.mp3", "audios/sesión_Tapado 8 2 1.mp3"],
         "imagen": "imagenes/5.png"
     },
     {
-        "audio": ["audios/sesión_Flauta 4.ogg", "audios/sesión_Flauta 4 1.ogg", "audios/sesión_Flauta 4 2.ogg"],
+        "audio": ["audios/sesión_Flauta 4.mp3", "audios/sesión_Flauta 4 1.mp3", "audios/sesión_Flauta 4 2.mp3"],
         "imagen": "imagenes/6.png"
     },
     {
-        "audio": ["audios/sesión_8 4", "audios/sesión_8 4 1.ogg", "audios/sesión_8 4 2.ogg"],
+        "audio": ["audios/sesión_8 4", "audios/sesión_8 4 1.mp3", "audios/sesión_8 4 2.mp3"],
         "imagen": "imagenes/7.png"
     },
     {
-        "audio": ["audios/sesión_8 2 prin.ogg", "audios/sesión_8 2 prin 2.ogg"],
+        "audio": ["audios/sesión_8 2 prin.mp3", "audios/sesión_8 2 prin 2.mp3"],
         "imagen": "imagenes/8.png"
     },
     {
-        "audio": ["audios/sesión_8 y 2 2.3.ogg", "audios/sesión_8 y 2 2.3 1.ogg"],
+        "audio": ["audios/sesión_8 y 2 2.3.mp3", "audios/sesión_8 y 2 2.3 1.mp3"],
         "imagen": "imagenes/9.png"
     },
     {
-        "audio": ["audios/Trompeta 8_1.ogg", "audios/sesión_Trompeta 8.ogg", "audios/sesión_Trompeta 8_2.ogg"],
+        "audio": ["audios/sesión_Trompeta 8_1.mp3", "audios/sesión_Trompeta 8.mp3", "audios/sesión_Trompeta 8_2.mp3"],
         "imagen": "imagenes/10.png"
     },
     {
-        "audio": ["audios/sesión_Corneta 1 1.ogg", "audios/sesión_Corneta.ogg", "audios/sesión_Corneta 1 1.ogg"],
+        "audio": ["audios/sesión_Corneta 1 1.mp3", "audios/sesión_Corneta.mp3", "audios/sesión_Corneta 1 1.mp3"],
         "imagen": "imagenes/11.png"
     },
     {
-        "audio": ["audios/lleno.ogg", "audios/sesión_lleno.ogg"],
+        "audio": ["audios/sesión_lleno 1.mp3", "audios/sesión_lleno.mp3"],
         "imagen": "imagenes/12.png"
     }
     // ... añade más elementos según necesites
